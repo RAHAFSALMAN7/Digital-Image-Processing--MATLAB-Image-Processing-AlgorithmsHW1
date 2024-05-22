@@ -1,0 +1,2 @@
+# Digital-Image-Processing--MATLAB-Image-Processing-AlgorithmsHM1
+MATLAB Image Processing Algorithms This repository contains MATLAB implementations of several image processing algorithms including component labeling with 4-connectivity and 8-connectivity, intensity range-based connectivity, and size filtering. These algorithms do not use any built-in MATLAB functions for labeling or size filtering 
